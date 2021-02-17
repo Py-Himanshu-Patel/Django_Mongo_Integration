@@ -32,6 +32,8 @@
     }
     ```
 
+- Make the MongoDB server up (probably on localhost if not localhost then provide HOST parameter)
+
 - run commands
 
     ``` shell
